@@ -10,11 +10,12 @@ namespace Semana_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("fhksfjskfkgk");
-            Console.WriteLine("hdfhkshfkshfkf");
-            Console.WriteLine("ssjfhdkdfhhsk");
+            Console.WriteLine("primera subida");
+            Console.WriteLine("segunda subida");
+            Console.WriteLine("tercera subida");
             Console.WriteLine("cuarta subida");
             Console.WriteLine("quinta subida");
+            Console.WriteLine("sexta subida");
         }
     }
 }
