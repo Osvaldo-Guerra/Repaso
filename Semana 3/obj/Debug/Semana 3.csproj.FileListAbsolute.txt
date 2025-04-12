@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Repaso\Fundamentos\Semana 3\bin\Debug\Semana 3.exe.config
+C:\Users\User\Desktop\Repaso\Fundamentos\Semana 3\bin\Debug\Semana 3.exe
+C:\Users\User\Desktop\Repaso\Fundamentos\Semana 3\bin\Debug\Semana 3.pdb
+C:\Users\User\Desktop\Repaso\Fundamentos\Semana 3\obj\Debug\Semana 3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repaso\Fundamentos\Semana 3\obj\Debug\Semana 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repaso\Fundamentos\Semana 3\obj\Debug\Semana 3.exe
+C:\Users\User\Desktop\Repaso\Fundamentos\Semana 3\obj\Debug\Semana 3.pdb
